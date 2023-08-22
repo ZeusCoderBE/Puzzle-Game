@@ -1,0 +1,28 @@
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\bin\Debug\xep_hinh_01.exe.config
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\bin\Debug\xep_hinh_01.exe
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\bin\Debug\xep_hinh_01.pdb
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.csproj.AssemblyReference.cache
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.Properties.Resources.resources
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.csproj.GenerateResource.cache
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.csproj.CoreCompileInputs.cache
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.exe
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.pdb
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.FormTime.resources
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.fmGame1.resources
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.fmGame2.resources
+C:\Users\dtptr\Desktop\Đái Triệu Phi - 21133068\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.StartGame.resources
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\bin\Debug\xep_hinh_01.exe.config
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\bin\Debug\xep_hinh_01.exe
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\bin\Debug\xep_hinh_01.pdb
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.csproj.AssemblyReference.cache
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.fmGame1.resources
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.fmGame2.resources
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.FormTime.resources
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.Properties.Resources.resources
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.StartGame.resources
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.csproj.GenerateResource.cache
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.csproj.CoreCompileInputs.cache
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.exe
+C:\Users\dtptr\OneDrive - hcmute.edu.vn\2022-2023\HK1\Đồ án cuối kỳ\xep_hinh_01\obj\Debug\xep_hinh_01.pdb
